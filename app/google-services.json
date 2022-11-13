@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "763880364527",
+    "project_id": "gaurdian-91f46",
+    "storage_bucket": "gaurdian-91f46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763880364527:android:f4f043b603df3755c6be1a",
+        "android_client_info": {
+          "package_name": "com.example.gaurdian"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763880364527-b7irh893m0tlnpt5la3eca2jsft5u2j4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABpGls3Em3sAI41cUuMK6CsjQ4FDMogk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763880364527-b7irh893m0tlnpt5la3eca2jsft5u2j4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
